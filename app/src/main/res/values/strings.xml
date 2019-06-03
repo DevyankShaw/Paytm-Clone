@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PaytmClone</string>
+    <string name="title_home">Home</string>
+    <string name="title_scan">Scan</string>
+    <string name="title_inbox">Inbox</string>
+    <string name="title_mall">Mall</string>
+    <string name="title_bank">Bank</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
