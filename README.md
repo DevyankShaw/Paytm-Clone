@@ -1,8 +1,14 @@
 # PaytmUIClone
 
 
-A UI clone of the Paytm App
+A UI clone of the Paytm App.
 
+Widget Used:-
+->Bottom Navigation Bar
+->Navigation Drawer
+->Recycler View
+->Card View
+->Custom ListView
 
 ## Screenshots
 
